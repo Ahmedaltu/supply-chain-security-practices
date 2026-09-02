@@ -1,6 +1,6 @@
 # supply-chain-security-lab
 
-*Learning software supply-chain security by verifying it on real, published software — one topic at a time.*
+*Learning software supply-chain security by verifying it on real, published software.*
 
 ---
 
