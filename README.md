@@ -65,8 +65,3 @@ Getting cosign:
 go install github.com/sigstore/cosign/v2/cmd/cosign@latest
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
-
-
----
-
-*A personal learning project. Uses public projects as examples; not affiliated with them.*
