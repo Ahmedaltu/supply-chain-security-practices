@@ -66,11 +66,6 @@ go install github.com/sigstore/cosign/v2/cmd/cosign@latest
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
 
----
-
-## Start here
-
-Open [`01-signing/`](01-signing/) — it verifies that a real published image is signed, and reads the output line by line. Everything else builds on it.
 
 ---
 
